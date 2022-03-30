@@ -19,6 +19,8 @@ It is a single page application made with ReactJS,Material ui CSS etc...
 ## Contact Me
 
 [![Github Link]](https://github.com/kawsaralidev)
+[![Facebook]](https://www.facebook.com/kawsaralidev)
+[![Linkedin]](https://www.linkedin.com/in/kawsaralidev/)
 
 ## Client Facilitis
 
